@@ -89,7 +89,7 @@ function ajustaAno(ano){
 
 let parametroN = ajustaDia(dia).toString() + ajustaMes(mes).toString() + ajustaAno(ano).toString();
 parametroN = parseInt(parametroN) * 9;
-console.log("Senha do Parametro N: " + parametroN);
+console.log("Parametro N: " + parametroN);
 
 
 
