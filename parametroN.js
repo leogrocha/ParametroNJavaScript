@@ -9,21 +9,21 @@ function ajustaDia(dia){
     
     if (dia == 01)
         dia = 1;
-    if (dia == 02)
+    else if (dia == 02)
         dia = 2;
-    if (dia == 03)
+    else if (dia == 03)
         dia = 3;
-    if (dia == 04)
+    else if (dia == 04)
         dia = 4;
-    if (dia == 05)
+    else if (dia == 05)
         dia = 5;
-    if (dia == 06)
+    else if (dia == 06)
         dia = 6;
-    if (dia == 07)
+    else if (dia == 07)
         dia = 7;
-    if (dia == 08)
+    else if (dia == 08)
         dia = 8;
-    if (dia == 09)
+    else if (dia == 09)
         dia = 9;
 
     else if (dia == 10)
